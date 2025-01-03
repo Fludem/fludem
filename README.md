@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👀, I'm Dylan Marriott (Fludem)</h1>
-<h3 align="center">I like to both make and break things.</h3>
+<h1 align="center">Hello 👀</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fludem&label=Profile%20views&color=0e75b6&style=flat" alt="fludem" /> </p>
 
