@@ -4,11 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/fludemdylan" target="blank"><img src="https://img.shields.io/twitter/follow/fludemdylan?logo=twitter&style=for-the-badge" alt="fludemdylan" /></a> </p>
 
-- 🔭 I’m currently working on [Workforce Management SaaS With Biometric Clocking Machines](https://github.com/clockingsystems)
-
 - 🌱 I’m currently learning **Neovim, Rust and Next.js**
-
-- 👨‍🎓 I spend most of my time **Learning and teaching others**
 
 - 🤝 I’m open to working on **Projects that I find interesting and provide purpose**
 
@@ -16,13 +12,10 @@
 
 - 📫 Here's how to reach me **dylan@onyxleeds.co.uk & discord: fludemdylan**
 
-- 📚 Random book suggestions **Man and His symbols (Carl Jung), Blitzed (Norman Ohler), $100M Leads (Hormozi)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fludemdylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fludemdylan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6683148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6683148" height="30" width="40" /></a>
-<a href="https://instagram.com/dylanmarriott21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dylanmarriott21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
