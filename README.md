@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/fludemdylan" target="blank"><img src="https://img.shields.io/twitter/follow/fludemdylan?logo=twitter&style=for-the-badge" alt="fludemdylan" /></a> </p>
 
-- 🌱 I’m currently learning **Neovim, Rust and Next.js**
+- 🌱 I’m currently learning **Langchain**
 
 - 🤝 I’m open to working on **Projects that I find interesting and provide purpose**
 
