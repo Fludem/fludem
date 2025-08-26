@@ -4,13 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/fludemdylan" target="blank"><img src="https://img.shields.io/twitter/follow/fludemdylan?logo=twitter&style=for-the-badge" alt="fludemdylan" /></a> </p>
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 Helping non-profits source funding and grants with [Fundin.ai](https://fundin.ai) 
 
 - 🤝 I’m open to working on **Projects that I find interesting and provide purpose**
 
-- 💬 Ask me about **Laravel + PHP, WebApp Hacking and Social Engineering.**
+- 💬 Ask me about **Laravel, WebApp Pen Testing and Social Engineering.**
 
 - 📫 Here's how to reach me **dylan@onyxleeds.co.uk & discord: fludemdylan**
+
+- 🤓 Currently researching Prompt/Context Engineering, Recommendation Systems, Agentic RAG
 
 
 <h3 align="left">Languages and Tools:</h3>
